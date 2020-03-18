@@ -45,17 +45,17 @@ a:link {
 }
 
 a:visited {
-    color: #850404;
+    color: #cc0000;
 }
 
 a:hover {
-    background-color: rgb(167, 1, 1);
+    background-color: rgb(223, 213, 213);
 }
 
 #footer {
     clear: both;
-    background: #D9D39F;
-    color: #0d6eff;
+    background: rgb(211, 54, 54);
+    color: #000000;
     font-size: 0.9em;
     text-align: justify;
     margin:0 auto;
@@ -64,7 +64,7 @@ a:hover {
 
 #header {
     clear: both;
-    background: rgb(167, 1, 1);
+    background: rgb(211, 54, 54);
     color: #000000;
     margin:0 auto;
 	text-align: center;
@@ -73,7 +73,7 @@ a:hover {
 
 #header2 {
     clear: both;
-    background: #D9D39F;
+    background: rgb(211, 54, 54);
     color: #000000;
     margin:0 auto;
 	text-align: left;
@@ -82,7 +82,7 @@ a:hover {
 
 #list {
     clear: both;
-    background: #E0E0E0;
+    background: rgb(211, 54, 54);
     color: #000000;
     font-size: 0.8em;
     text-align: justify;
